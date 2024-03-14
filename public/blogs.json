@@ -1,36 +1,36 @@
 [
     {
       "id": 98765,
-      "cover_img": "https://example.com/cover98765.jpg",
+      "cover_img": "https://app.gemoo.com/share/image-annotation/626947599547129856?codeId=PYl1VmY4Jp6aA&origin=imageurlgenerator&card=626947597101850624",
       "title": "The Lost City",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "https://app.gemoo.com/share/image-annotation/626948565797273600?codeId=v67KLwQJYWrRa&origin=imageurlgenerator&card=626948563171639296",
       "posted_date": "2024-03-10",
       "reading_time": 30,
       "hashtags": ["adventure", "mystery"]
     },
     {
       "id": 23456,
-      "cover_img": "https://example.com/cover23456.jpg",
+      "cover_img": "https://app.gemoo.com/share/image-annotation/626948866877034496?codeId=MpOGodZpVa3ym&origin=imageurlgenerator&card=626948864511447040",
       "title": "Journey to the Unknown",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "https://app.gemoo.com/share/image-annotation/626949206519177216?codeId=DWlZWxrrqrYar&origin=imageurlgenerator&card=626949204048732160",
       "posted_date": "2024-03-11",
       "reading_time": 45,
       "hashtags": ["fantasy", "exploration"]
     },
     {
       "id": 34567,
-      "cover_img": "https://example.com/cover34567.jpg",
+      "cover_img": "https://app.gemoo.com/share/image-annotation/626949399390060544?codeId=PYl1VKlaGJ4mA&origin=imageurlgenerator&card=626949396856700928",
       "title": "Secrets of the Deep",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "https://app.gemoo.com/share/image-annotation/626949548162015232?codeId=PYl1V7QG9eKoK&origin=imageurlgenerator&card=626949545767067648",
       "posted_date": "2024-03-12",
       "reading_time": 20,
       "hashtags": ["mystery", "adventure"]
     },
     {
       "id": 45678,
-      "cover_img": "https://example.com/cover45678.jpg",
+      "cover_img": "https://app.gemoo.com/share/image-annotation/626949827246796800?codeId=P57kKwnJq810N&origin=imageurlgenerator&card=626949824847654912",
       "title": "Echoes of Eternity",
-      "author_img": "https://example.com/author4.jpg",
+      "author_img": "https://app.gemoo.com/share/image-annotation/626950014891593728?codeId=P57kKrpWzqx0a&origin=imageurlgenerator&card=626950012429537280",
       "posted_date": "2024-03-13",
       "reading_time": 35,
       "hashtags": ["fantasy", "magic"]
