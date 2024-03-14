@@ -1,36 +1,40 @@
 [
     {
       "id": 98765,
-      "cover_img": "https://app.gemoo.com/share/image-annotation/626947599547129856?codeId=PYl1VmY4Jp6aA&origin=imageurlgenerator&card=626947597101850624",
+      "cover_img": "https://i.ibb.co/QrWWLtc/Html-system-websites-concept.jpg",
       "title": "The Lost City",
-      "author_img": "https://app.gemoo.com/share/image-annotation/626948565797273600?codeId=v67KLwQJYWrRa&origin=imageurlgenerator&card=626948563171639296",
+      "author_img": "https://i.ibb.co/9Z5sTdq/3d-cartoon-business-character.jpg",
+      "author": "John Doe",
       "posted_date": "2024-03-10",
       "reading_time": 30,
       "hashtags": ["adventure", "mystery"]
     },
     {
       "id": 23456,
-      "cover_img": "https://app.gemoo.com/share/image-annotation/626948866877034496?codeId=MpOGodZpVa3ym&origin=imageurlgenerator&card=626948864511447040",
+      "cover_img": "https://i.ibb.co/LxcJhyd/Html-system-websites-concept-1.jpg",
       "title": "Journey to the Unknown",
-      "author_img": "https://app.gemoo.com/share/image-annotation/626949206519177216?codeId=DWlZWxrrqrYar&origin=imageurlgenerator&card=626949204048732160",
+      "author_img": "https://i.ibb.co/jLgN90L/cricket-player-with-bat-ball-3d-illustration.jpg",
+      "author": "Jane Smith",
       "posted_date": "2024-03-11",
       "reading_time": 45,
       "hashtags": ["fantasy", "exploration"]
     },
     {
       "id": 34567,
-      "cover_img": "https://app.gemoo.com/share/image-annotation/626949399390060544?codeId=PYl1VKlaGJ4mA&origin=imageurlgenerator&card=626949396856700928",
+      "cover_img": "https://i.ibb.co/H4yjsZ9/Composition-with-html-system-websites.jpg",
       "title": "Secrets of the Deep",
-      "author_img": "https://app.gemoo.com/share/image-annotation/626949548162015232?codeId=PYl1V7QG9eKoK&origin=imageurlgenerator&card=626949545767067648",
+      "author_img": "https://i.ibb.co/0DZJ292/3d-cartoon-character-fun-teenager.jpg",
+      "author": "Michael Johnson",
       "posted_date": "2024-03-12",
       "reading_time": 20,
       "hashtags": ["mystery", "adventure"]
     },
     {
       "id": 45678,
-      "cover_img": "https://app.gemoo.com/share/image-annotation/626949827246796800?codeId=P57kKwnJq810N&origin=imageurlgenerator&card=626949824847654912",
+      "cover_img": "https://i.ibb.co/nf9yGrQ/Programming-background-collage.jpg",
       "title": "Echoes of Eternity",
-      "author_img": "https://app.gemoo.com/share/image-annotation/626950014891593728?codeId=P57kKrpWzqx0a&origin=imageurlgenerator&card=626950012429537280",
+      "author_img": "https://i.ibb.co/4RLVY3Y/funny-illustration-3d-cartoon-backpacker.jpg",
+      "author": "Emily Brown",
       "posted_date": "2024-03-13",
       "reading_time": 35,
       "hashtags": ["fantasy", "magic"]
