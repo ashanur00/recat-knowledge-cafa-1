@@ -2,14 +2,15 @@ import { useState } from 'react'
 import './App.css'
 import Blogs from './components/Blogs/Blogs'
 
-import Bookmark from './components/Bookmarks/Bookmark'
+import Bookmark from './components/Bookmarks/Bookmarks'
 import Header from './components/Headers/Header'
 
 function App() {
   const [bookmarks, setBookmarks] = useState ([]);
 
   const handleAddToBookmark = blog => {
-    console.log('bookmark adding soon')
+    const newBookmarks = [...bookmarks, blog];
+    setBookmarks(newBookmarks);
   }
 
   return (
@@ -18,7 +19,7 @@ function App() {
       <Header></Header>
       <div className='md:flex max-w-7xl mx-auto'>
       <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
-      <Bookmark></Bookmark>
+      <Bookmark bookmarks={bookmarks}></Bookmark>
       </div>
       
     </>
